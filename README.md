@@ -238,5 +238,6 @@ npm run build
 
 在build文件夹下生成结果。
 
+Test edit for lab. 
 
 
